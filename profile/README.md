@@ -1,4 +1,10 @@
 ## Hi there 👋
+Welcome to the St Barts School FTC Team Github Organisation. To Contribute You Must Be a Member of the St Barts FTC Team. 
+
+Current Repository's Include:
+
+ - Profile
+ - .Github
 
 <!--
 
